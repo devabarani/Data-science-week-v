@@ -1,0 +1,14 @@
+E-commerce Transaction Data Analysis - Summary Report
+============================================================
+
+Generated on: 2026-01-03 11:19:13
+
+Key Insights:
+------------------------------------------------------------
+1. Total Revenue: $689,995.56
+2. Average Transaction Value: $690.00
+3. Total Transactions: 1,000
+4. Top Category by Revenue: Books ($192,147.47)
+5. Top Region by Revenue: South America ($219,352.56)
+6. Best Year: 2024
+7. Best Selling Product: ActiveWear Smartwatch (100 units)
